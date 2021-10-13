@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "https://raw.githubusercontent.com/TamSzaGot/test-schemas/main/test-assertion.jsonld",
   "type": "Ed25519VerificationKey2020",
   "publicKeyMultibase": "z6MktwH4eo2vP6tpQ56QPEseaUN4A7pjTh73e6j7ixxpPc7b",
   "@context": "https://w3id.org/security/v2",
