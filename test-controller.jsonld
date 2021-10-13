@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/security/v2",
-  "id": "https://raw.githubusercontent.com/TamSzaGot/test-schemas/main/test-controller.jsonld#z6Mku7hHsbxW2QxJypdgkBThe41iehdXJqLmUmS8rB8AmbvW",
+  "id": "https://raw.githubusercontent.com/TamSzaGot/test-schemas/main/test-controller.jsonld",
   "assertionMethod": [
-    "https://raw.githubusercontent.com/TamSzaGot/test-schemas/main/test-assertion.jsonld"
+    "https://raw.githubusercontent.com/TamSzaGot/test-schemas/main/test-assertion.jsonld#z6Mku7hHsbxW2QxJypdgkBThe41iehdXJqLmUmS8rB8AmbvW"
   ]
 }
